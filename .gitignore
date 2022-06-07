@@ -1,0 +1,6 @@
+anjali.html
+
+#this will ignore all log file
+*.log
+
+b.txt
