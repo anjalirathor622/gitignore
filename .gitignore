@@ -3,4 +3,12 @@ anjali.html
 #this will ignore all log file
 *.log
 
+#this will ignore b.txt file
 b.txt
+
+#this will ignore all files in temp folder
+temp/
+
+#this will ignore only root files
+/anj.html
+/anj.txt
