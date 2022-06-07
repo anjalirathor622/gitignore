@@ -24,4 +24,4 @@ name/anj.file
 **/local/x.txt
 
 #this will ignore all files and folders between lib and name folder 
-/lib/**/name/
+**/lib/**/name/
