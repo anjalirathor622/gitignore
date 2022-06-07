@@ -28,3 +28,7 @@ name/anj.file
 
 # this will ignore all folders end with name1
 *name1/
+
+
+#? matches a single non-specific character
+name?.file
