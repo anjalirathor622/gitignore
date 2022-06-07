@@ -13,5 +13,15 @@ temp/
 /anj.html
 /anj.txt
 
-
+# this will only anj.file from name folder
 name/anj.file
+
+
+# this will ignore all x.txt files in project
+**/x.txt
+
+#this will  target all x.txt files not which are in local name folder  
+**/local/x.txt
+
+#this will ignore all files and folders between lib and name folder 
+/lib/**/name/
